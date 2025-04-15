@@ -1,5 +1,4 @@
-<h2>first spring boot App</h2>
-<img src="pics/1.png">
+
 <h2>repository methode in use</h2>
 <img src="pics/2.png">
 <h2>repository queries</h2>
