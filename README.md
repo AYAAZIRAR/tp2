@@ -1,8 +1,6 @@
 
-<h2>repository methode in use</h2>
-<img src="pics/2.png">
-<h2>repository queries</h2>
-<img src="pics/3.png">
+
+
 <h2>XAMPP control panel</h2>
 <img src="pics/4.png">
 <h2>product list</h2>
